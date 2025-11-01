@@ -1,15 +1,11 @@
-# home_milk_calculator
-basic website for recording daily milk delivery
+# Athlete Training Dashboard
+Testing webapp for Athlete training data
 
-Ref usin render - 
-1. https://www.youtube.com/watch?v=vwoUriuqcio
-2. https://www.youtube.com/watch?v=1FdrJPt77GU&t=77s
-
-website - https://home-milk-calculator.onrender.com
+This app will be used to capture athlete training data for analysis, visualization and help athlete for planning and strategies in their training.
 
 
 Ref using python anywhere - https://www.youtube.com/watch?v=Bx_jHawKn5A
 
-website - https://abhishekmitra.pythonanywhere.com/
+website - 
 
 
